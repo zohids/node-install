@@ -1,0 +1,25 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "this is a simple package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zohids/node-install.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "zohids",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zohids/node-install/issues"
+  },
+  "homepage": "https://github.com/zohids/node-install#readme",
+  "devDependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
